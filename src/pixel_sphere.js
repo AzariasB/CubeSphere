@@ -138,7 +138,6 @@ $(document).ready(function() {
 			cube.position.set(x, y, z);
 			cube.matrixAutoUpdate = false;
 			cube.updateMatrix();
-			//        scene.add(cube);
 			self.yCubes[y].push(cube);
 			globalGeometry.merge(cube.geometry, cube.matrix);
 		}
