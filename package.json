@@ -11,7 +11,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"dat.gui": "^0.7.6",
-		"jquery": "^3.4.1",
+		"jquery": "^3.5.0",
 		"three": "^0.104.0",
 		"three-orbitcontrols": "^2.102.1"
 	},
